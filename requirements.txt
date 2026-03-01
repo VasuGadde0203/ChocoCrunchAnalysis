@@ -1,0 +1,11 @@
+requests
+pandas
+sqlalchemy
+pymysql
+tqdm
+matplotlib
+seaborn
+plotly
+streamlit
+mysql-connector-python
+python-dotenv

@@ -276,5 +276,3 @@ This project demonstrates proficiency in:
 Data Analytics & Machine Learning Enthusiast
 
 ---
-
-*Built with 🍫 and Python*
